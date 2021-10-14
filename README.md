@@ -1,3 +1,4 @@
 # stoque_dev
 
 #FIZ ESSA ALTERAÇÃO SÓ PARA EXEMPLIFICAR
+#Teste
